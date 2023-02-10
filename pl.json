@@ -762,6 +762,7 @@
     "CHAT.ApplyTT": "MG: Wybierz tokeny do których zastosować.\nGracze: Stosuje się do przypisanych graczy",
     "CHAT.Terror": "Groza",
     "CHAT.Apply": "Zastosuj",
+    "CHAT.ApplyNewCondition" : "Dodaj Stan",
     "CHAT.ApplyError": "Nie możesz zastosować tego efektu.",
     "CHAT.EditError": "Nie masz uprawnień do edycji tej Wiadomości na Chacie",
     "CHAT.Experience": "Nagroda PD",
