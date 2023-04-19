@@ -4,7 +4,7 @@
   "description": "Warhammer 4ed PL - System.",
   "authors": [
     {
-      "name": "silent_mark",
+      "name": "silent_mark","Artouis"
       "flags": {}
     }
   ],
@@ -15,7 +15,7 @@
     {
       "lang": "pl",
       "name": "Polski",
-      "path": "pl.json",
+      "path": "lang/pl.json",
       "flags": {}
     }
   ],
