@@ -569,7 +569,7 @@
     "CHARGEN.Career.ReplacementsAvailableDescription" : "Biorąc pod uwagę rzut na profesję możesz ją zmienić na",
     "CHARGEN.Career.RollAgain" : "Wykonaj dwa rzuty na profesję. Otrzymasz mniej PD",
     "CHARGEN.Career.KeepRolling" : "Rzucaj Dalej! (Nie otrzymasz dodatkowych PD)",
-    "CHARGEN.Career.DragDrop" : "lub przenieś Profesję jaką chcesz.",
+    "CHARGEN.Career.DragDrop" : "Alternatywnie, przeciągnij przedmiot kariery z kompendium (bez dodatkowego doświadczenia)",
 
 
     "CHARGEN.Attributes.Reroll" : "Przerzuć",
