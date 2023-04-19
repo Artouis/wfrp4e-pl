@@ -1,2 +1,2 @@
-# wfrp4e-pl
-WFRP4E Foundry vttt system translation PL
+# Polska wersja WHFRP4ed dla Foundry VTT
+Polish translation of Foundry VTT system.
